@@ -1,3 +1,3 @@
 # hello-world
 It just says "hello"
-uhhhhhhhhhhhhhhhhhhhhhhhhhh
+Hi! My name is Kyle Jones. I am a physics major with minors in computer science and mathematics.
